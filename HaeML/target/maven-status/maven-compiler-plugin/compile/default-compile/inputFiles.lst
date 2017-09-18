@@ -1,0 +1,10 @@
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/utils/SamplingStrategy.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/som/LearningCoefficients.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/rbm/RBMTrainer.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/utils/Trainer.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/rbm/RestrictedBoltzmannMachine.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/som/SelfOrganizingMap.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/som/BaseLearningCoefficients.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/som/GaussianLearningCoefficients.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/som/SOMTrainer.java
+/home/heikki/workspace/HaeML/src/main/java/com/haem/ml/utils/Measure.java
